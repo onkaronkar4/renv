@@ -1,0 +1,11 @@
+---
+title: "renv_example"
+format: html
+editor: visual
+---
+
+## [QuartoRobust R Code That Will Work Forever With {renv}](https://www.youtube.com/watch?v=Oen9xhEh8PY&t=12s)
+
+```{r}
+library(dplyr)
+```
